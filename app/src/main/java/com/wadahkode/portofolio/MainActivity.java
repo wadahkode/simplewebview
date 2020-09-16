@@ -50,7 +50,7 @@ public class MainActivity extends Activity {
         });
         
         // Memuat halaman web eksternal
-        //webView.loadUrl("https://wadahkode.github.io/portofolio");
+        //webView.loadUrl("http://dinsos.tegalkab.go.id");
         webView.loadUrl("file:///storage/emulated/0/www/appjs/docs/index.html");
     }
     
